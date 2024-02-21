@@ -3,8 +3,6 @@ import { RouterLink } from 'vue-router';
 
 import { Navigation } from '@/features';
 import { Container } from '@/shared/ui';
-
-const emit = defineEmits(['toggleDrawer']);
 </script>
 
 <template>
