@@ -1,0 +1,1 @@
+export { useGameLocalization } from './useGameLocalization';

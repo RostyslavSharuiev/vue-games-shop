@@ -1,0 +1,124 @@
+{
+  "games": [
+    {
+      "id": "0",
+      "title": "Assassin's Creed Valhalla",
+      "price": 915,
+      "image": "/game-covers/assassins_creed_valhalla.webp",
+      "video": "https://www.youtube.com/embed/ssrNcwxALS4",
+      "genres": {
+        "en": ["Action", "Open world", "RPG"],
+        "ua": ["Екшн", "Відкритий світ", "РПГ"]
+      },
+      "description": {
+        "en": "Become a legendary Viking on a quest for glory. Raid your enemies, grow your settlement, and build your political power.",
+        "ua": "Станьте легендарним вікінгом у пошуках слави. Здійснюйте набіги на своїх ворогів, розвивайте своє поселення та зміцнюйте свою політичну владу."
+      }
+    },
+    {
+      "id": "1",
+      "title": "Forza Horizon 5",
+      "price": 1199,
+      "image": "/game-covers/forza_5.webp",
+      "video": "https://www.youtube.com/embed/FYH9n37B7Yw",
+      "genres": {
+        "en": ["Racing", "Simulator", "Open world"],
+        "ua": ["Перегони", "Симулятор", "Відкритий світ"]
+      },
+      "description": {
+        "en": "Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world’s greatest cars. Blast off into Forza Horizon 5: Hot Wheels or Conquer the Sierra Nueva in the ultimate Horizon Rally Adventure experience. Requires Forza Horizon 5 game, expansion sold separately.",
+        "ua": "Досліджуйте яскраві ландшафти відкритого світу Мексики з безмежною веселою їздою на найкращих автомобілях світу. Вирушайте в Forza Horizon 5: Hot Wheels або підкорюйте Сьєрра-Нуева в неперевершеному досвіді Horizon Rally Adventure. Потрібна гра Forza Horizon 5, розширення продається окремо."
+      }
+    },
+    {
+      "id": "2",
+      "title": "Battlefield 2042",
+      "price": 299,
+      "image": "/game-covers/battlefield_2042.webp",
+      "video": "https://www.youtube.com/embed/ASzOzrB-a9E",
+      "genres": {
+        "en": ["Action", "Shooter", "War"],
+        "ua": ["Екшн", "Шутер", "Війна"]
+      },
+      "description": {
+        "en": "Battlefield™ 2042 is a first-person shooter that marks the return to the iconic all-out warfare of the franchise.",
+        "ua": "Battlefield™ 2042 — це шутер від першої особи, який знаменує повернення до культової франшизи тотальної війни."
+      }
+    },
+    {
+      "id": "3",
+      "title": "Life is Strange True Colors",
+      "price": 1399,
+      "image": "/game-covers/life_is_strange_true_colors.webp",
+      "video": "https://www.youtube.com/embed/b6CkzwVAr0M",
+      "genres": {
+        "en": ["Story Rich", "Choice Matter", "LGBTQ+"],
+        "ua": ["Багатий сюжет", "Важливий вибір", "ЛГБТК+"]
+      },
+      "description": {
+        "en": "Alex Chen hides her 'curse': the psychic power of Empathy, the ability to absorb the emotions of others. When her brother dies in a so-called accident, Alex must embrace her power to find the truth.",
+        "ua": "Алекс Чен приховує своє «прокляття»: психічну силу емпатії, здатність поглинати емоції інших. Коли її брат гине в так званому нещасному випадку, Алекс має застосувати свою силу, щоб знайти правду."
+      }
+    },
+    {
+      "id": "4",
+      "title": "Grand Theft Auto V",
+      "price": 838,
+      "image": "/game-covers/gta_v.webp",
+      "video": "https://www.youtube.com/embed/QkkoHAzjnUs",
+      "genres": {
+        "en": ["Open world", "Action", "Crime"],
+        "ua": ["Відкритий світ", "Екшн", "Кримінал"]
+      },
+      "description": {
+        "en": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+        "ua": "Grand Theft Auto V для ПК пропонує гравцям можливість досліджувати відзначений нагородами світ Лос-Сантоса та округу Блейн у роздільній здатності до 4k і більше, а також шанс відчути гру, що працює зі швидкістю 60 кадрів на секунду."
+      }
+    },
+    {
+      "id": "5",
+      "title": "Tom Clancy's Rainbow Six® Siege",
+      "price": 299,
+      "image": "/game-covers/rainbow_siege.webp",
+      "video": "https://www.youtube.com/embed/6wlvYh0h63k",
+      "genres": {
+        "en": ["Tactical", "War", "Multiplayer"],
+        "ua": ["Тактичність", "Війна", "Багатокористувацька гра"]
+      },
+      "description": {
+        "en": "Tom Clancy's Rainbow Six® Siege is an elite, tactical team-based shooter where superior planning and execution triumph.",
+        "ua": "Tom Clancy's Rainbow Six® Siege — це елітний тактичний командний шутер, у якому перемагають чудове планування та виконання."
+      }
+    },
+    {
+      "id": "6",
+      "title": "The long dark",
+      "price": 415,
+      "image": "/game-covers/the_long_dark.webp",
+      "video": "https://www.youtube.com/embed/6wlvYh0h63k",
+      "genres": {
+        "en": ["Survivor", "Open world", "Indie"],
+        "ua": ["Виживання", "Відкритий світ", "Інді"]
+      },
+      "description": {
+        "en": "THE LONG DARK is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies -- only you, the cold, and all the threats Mother Nature can muster.",
+        "ua": "THE LONG DARK — це продуманий досвід дослідження та виживання, який спонукає гравців-одинаків думати самостійно, досліджуючи величезну замерзлу пустелю після геомагнітної катастрофи. Немає зомбі — тільки ти, холод і всі загрози, які може зібрати мати-природа."
+      }
+    },
+    {
+      "id": "7",
+      "title": "Deep Rock Galactic",
+      "price": 379,
+      "image": "/game-covers/deep_rock_galactic.webp",
+      "video": "https://www.youtube.com/embed/k4m_5JYrAGM?si=yIRbmW8drYvxAHkC",
+      "genres": {
+        "en": ["Dwarf", "PvE", "Cooperative shooter"],
+        "ua": ["Дворф", "Гравець проти оточення", "Кооперативний шутер"]
+      },
+      "description": {
+        "en": "Deep Rock Galactic is a multiplayer first-person shooter for 1-4 players who take on the role of brutal space dwarves: 100% destructible environments, procedurally-generated caves, and countless hordes of monsters.",
+        "ua": "Deep Rock Galactic — багатокористувацька стрілянка від першої особи для 1-4 гравців, які гратимуть роль жорстоких космічних дворфів. 100% руйнівне середовище, процедурно згенеровані печери та незліченні орди чудовиськ."
+      }
+    }
+  ]
+}
